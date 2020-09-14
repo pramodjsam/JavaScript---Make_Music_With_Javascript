@@ -1,0 +1,27 @@
+body{
+	background:  #66ff66;
+	height: 100vh;
+	width: 100vw;
+	overflow: hidden;
+}
+
+h1{
+	text-align: center;
+}
+
+.drums{
+	background: black;
+	width: 80%;
+	text-align: center;
+	font-size: 30px;
+	margin: auto;
+}
+
+.kicks,.snare{
+	padding: 50px 0 50px 0;
+}
+
+.kicks input, .snare input{
+	height: 30px;
+	width: 30px;
+}
